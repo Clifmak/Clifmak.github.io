@@ -28,5 +28,5 @@ The design of Williams College's Paresky Center's floor level sockets finds the 
 ![imgonline-com-ua-twotoone-hSPzyz85KfxvSt4v.jpg]({{site.baseurl}}/img/imgonline-com-ua-twotoone-hSPzyz85KfxvSt4v.jpg)
 
 
-The simplicity of the design highlights its functionality and usability. The device is minimal, efficient and sufficient.
+The simplicity of the design highlights its functionality and usability. The device is minimal, efficient and sufficient. It is 'neutrally good'.
 
