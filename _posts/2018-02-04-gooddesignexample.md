@@ -21,11 +21,12 @@ The design of Williams College's Paresky Center's floor level sockets finds the 
 
 3. The design is simple and looks elegent.
 
-4. The use of steel, a heavy duty material, makes the floor level sockets durable.
+4. The use of steel, a heavy duty material, makes the floor level sockets durable.  
+
 
 
 ![imgonline-com-ua-twotoone-hSPzyz85KfxvSt4v.jpg]({{site.baseurl}}/img/imgonline-com-ua-twotoone-hSPzyz85KfxvSt4v.jpg)
 
 
-
+The simplicity of the design highlights its functionality and usability. The device is minimal, efficient and sufficient.
 
