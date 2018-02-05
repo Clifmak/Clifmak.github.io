@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: GoodDesignExample
+title: A Good Design Example
 ---
 
 #  **A Collegially Good Design**
