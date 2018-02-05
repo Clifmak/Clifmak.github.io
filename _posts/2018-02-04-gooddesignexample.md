@@ -4,7 +4,7 @@ published: false
 title: GoodDesignExample
 ---
 
-#  A Collegially Good Design
+#  **A Collegially Good Design**
 
 When I was looking for a good design, I looked for something I didn't necessarily felt passionate about. I wanted a design I objectively agreed was good. This essentially meant a balance between functionality and usability. I chose a device I have been conditioned to accept, but never realized the goodness of the design until now.
 
@@ -21,6 +21,11 @@ The design of Williams College's Paresky Center's floor level sockets finds the 
 
 3. The design is simple and looks elegent.
 
+4. The use of steel, a heavy duty material, makes the floor level sockets durable.
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![imgonline-com-ua-twotoone-hSPzyz85KfxvSt4v.jpg]({{site.baseurl}}/img/imgonline-com-ua-twotoone-hSPzyz85KfxvSt4v.jpg)
+
+
+
+
