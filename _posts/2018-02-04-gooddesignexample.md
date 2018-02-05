@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: GoodDesignExample
 ---
 
@@ -29,4 +29,3 @@ The design of Williams College's Paresky Center's floor level sockets finds the 
 
 
 The simplicity of the design highlights its functionality and usability. The device is minimal, efficient and sufficient. It is 'neutrally good'.
-
