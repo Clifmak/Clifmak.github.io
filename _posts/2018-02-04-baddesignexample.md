@@ -24,7 +24,12 @@ I was walking in Williams College's Sawyer library, contemplating good and bad d
 4. Library users have to kneel or crouch to connect their devices to the socket. The sockets are about 10 cm deep with the compartments.  
 
 
+
+
 ![imgonline-com-ua-twotoone-IWSv9nRAKNnHgj2.jpg]({{site.baseurl}}/img/imgonline-com-ua-twotoone-IWSv9nRAKNnHgj2.jpg)
+
+
+Certain trade offs were made in the design of Sawyer Library's floor level sockets. Emphasis was placed on functionality rather than on user experience. Floor level sockets are convenient to students, but they are dangerous as indicated above. Making the floor level sockets difficult to open discourages students from becoming reliant on the floor level sockets. This reduces the risks associated with the sockets. 
 
 
 
