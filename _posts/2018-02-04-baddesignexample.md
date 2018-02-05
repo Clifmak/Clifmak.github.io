@@ -31,7 +31,7 @@ I was walking in Williams College's Sawyer library, contemplating good and bad d
 
 Certain trade offs were made in the design of Sawyer Library's floor level sockets. Emphasis was placed on functionality rather than on user experience. Floor level sockets are convenient to students, but they are dangerous as indicated above. Making the floor level sockets difficult to open discourages students from becoming reliant on the floor level sockets. This reduces the risks associated with the sockets. 
 
-Designers are faced with conscious choices when making devices. A design has the potential to influence behavior and vice versa. Similar to an investment in the financial market, the success and failure of a design is often only apparent after the fact.
+Designers are faced with conscious choices when making devices. A design has the potential to influence behavior and vice versa. Similar to an investment in the financial market, the success or failure of a design is often only apparent after the fact.
 
 
 
@@ -43,4 +43,4 @@ Designers are faced with conscious choices when making devices. A design has the
 
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
