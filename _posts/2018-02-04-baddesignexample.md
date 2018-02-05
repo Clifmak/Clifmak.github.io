@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: A Bad Design Example
+title: A Bad Design
 ---
 # **A Collegially Bad Design**
 
