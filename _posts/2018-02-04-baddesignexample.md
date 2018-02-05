@@ -9,7 +9,20 @@ What makes a good design ? Is it functionality, interface or beauty ? Like most 
 
 ## Sawyer Library's Floor Level Sockets
 
-I was walking in Williams College's Sawyer library, contemplating good and bad designs, when I accidentally stepped on the cover of one of the library's  floor level socket cover's, and almost lost my balance. I have long disliked the library's floor level sockets because they were not designed for use in a public space like library. College students and faculty use the sockets to charge their devices. 
+I was walking in Williams College's Sawyer library, contemplating good and bad designs, when I accidentally stepped on the cover of one of the library's  floor level socket cover's, and almost lost my balance. I have long disliked the library's floor level sockets because they were not designed for use in a public space like library. College students and faculty use the sockets to charge their devices. The floor level sockets are communal devices, but they were poorly designed because of the following reasons :
+
+1. The interface is not friendly for a first-time users. Is an ethernet port, an electrical outlet or a tunnel to Hogwarts inside the compartment ?
+
+2. There are no directions indicating that there are sockets in the floor level compartments. 
+
+3. The floor level socket's cover is clunky and difficult to open. It can be harzadous when it is open because it extends above ground level, and students can trip over the cover.
+
+4. Library users have to kneel or crouch to connect their devices to the socket. The sockets are about 10 cm deep with the compartments.
+
+
+
+
+
 
 
 
