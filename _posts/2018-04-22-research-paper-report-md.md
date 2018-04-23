@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Research-Paper-Report.md
+title: Research-Paper-Report
 ---
 ## Context-Based Design of Mobile Applications for Museums : A Survey of Existing Practices
 
