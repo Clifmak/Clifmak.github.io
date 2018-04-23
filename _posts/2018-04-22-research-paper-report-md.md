@@ -9,6 +9,13 @@ title: Research-Paper-Report.md
 
 Raptis et al. paper applies to our project, Art for All, because the paper analyzes mobile applications used in museum environments. The design for our project presents a mobile application that is used in a museum environment. The systems studied by Raptis, to a lesser extend, address the problem Art for All hopes to solve. Our project can be improved by using Raptis’ suggestions. The definition of context used in our design is severely limited because it reduces the environment to the artwork and the user. Including the four dimensions of context could help us identify problems and present solutions for our proposed designs. One aspect mentioned in the paper that our design already touches upon is the presentation of contextualized and personalized information to the user. Art for All’s design allows the users to design a user profile, and abstracts various layers of information that can be helpful to a museum visitor irrespective of their experience. 
 
+![]({{site.baseurl}}/img/Dismounted%20The%20Fourth%20Troopers%20Moving%20the%20Led%20Horses.jpg)![Dismounted The Fourth Troopers Moving the Led Horses.jpg]({{site.baseurl}}/img/Dismounted The Fourth Troopers Moving the Led Horses.jpg)
+
+
+
+
+
+
 
 References :
 
@@ -16,3 +23,5 @@ Dimitrios Raptis, Nikolaos Tselios, Nikolaos Avouris. Context-based Design of Mo
 Pages 153-160.
 
 Dix, A., Rodden, T., Davies, N., Trevor, J., Friday, A. and Palfreyman, K. Exploiting Space and Location as a Design Framework for Interactive Mobile Systems. ACM Transactions on Computer-Human Interaction (TOCHI) 7(3), September 2000, pp. 285-321.
+
+Image : FREDERIC REMINGTON, DISMOUNTED: THE FOURTH TROOPERS MOVING THE LED HORSES, [The Clark Museum](http://www.clarkart.edu/Collection/2639)
