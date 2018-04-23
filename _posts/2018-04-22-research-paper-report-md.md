@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Research-Paper-Report.md
 ---
 ## Context-Based Design of Mobile Applications for Museums : A Survey of Existing Practices
@@ -16,5 +16,3 @@ Dimitrios Raptis, Nikolaos Tselios, Nikolaos Avouris. Context-based Design of Mo
 Pages 153-160.
 
 Dix, A., Rodden, T., Davies, N., Trevor, J., Friday, A. and Palfreyman, K. Exploiting Space and Location as a Design Framework for Interactive Mobile Systems. ACM Transactions on Computer-Human Interaction (TOCHI) 7(3), September 2000, pp. 285-321.
-
-
