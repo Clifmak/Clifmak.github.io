@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: null
 published: true
 ---
 
-Cliff Makanda, 
-Williams College 18'
-Computer Science Major.
+- Cliff Makanda
+- Williams College 18'
+- Computer Science Major.
 
-Interests: Computer Science, Financial Markets, Literature & Politics.
-Favorite Animals: Elephants. They are very intelligent.
+
+- Interests: Computer Science, Financial Markets, Literature & Politics.
+- Favorite Animals: Elephants. They are very intelligent.
+
