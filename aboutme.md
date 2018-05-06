@@ -5,9 +5,7 @@ subtitle: null
 published: true
 ---
 
-- Cliff Makanda
-- Williams College 18'
-- Computer Science Major.
+- Cliff Makanda, Williams College 18', Computer Science Major.
 
 
 - Interests: Computer Science, Financial Markets, Literature & Politics.
