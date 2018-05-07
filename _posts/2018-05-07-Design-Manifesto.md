@@ -5,7 +5,7 @@ published: true
 ### Introduction
 
 
-Designing a product is both an art and a science. It is subject to various morals, rules and regulations. My class Human Computer Interaction has revealed to me various principles that are key to design a successful product. The following are lessons I have learned developing a personal project proposal, and working on a group project - from ideation to prototyping.
+Designing a product is both an art and a science. It is subject to various morals, rules and regulations. My class Human Computer Interaction has revealed to me various principles that are key to designing a successful product. The following are lessons that I have learned while developing a personal project proposal and working on a group project - from ideation to prototyping.
 
 
 ### Process
@@ -50,7 +50,7 @@ It is okay to fail and learn during the design process. Developing a prototype i
 ### Usability testing can reveal how the user experiences the design
 
 
-Designers often make assumptions about users. This can result in an ineffective design. What seems intuitive to the design might not be intuitive to the users. Conducting usability tests can help address designers’ bias, and reveal users actual experience. Our Art for All design had to highlight several key features, including a favoriting feature, which was not noticed by the user.
+Designers often make assumptions about users. This can result in an ineffective design. What seems intuitive to designers might not be intuitive to the users. Conducting usability tests can help address designers’ bias, and reveal users actual experience. Our Art for All design had to highlight several key features, including a favoriting feature, which was not noticed by the user.
 
 
 ### The Design Process is a Team Effort
