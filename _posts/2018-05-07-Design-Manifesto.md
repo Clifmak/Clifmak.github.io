@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Design Manifesto
 
@@ -53,6 +53,3 @@ Designers often make assumptions about users. This can result in an ineffective 
 
 
 Developing a great solution requires time, effort, organization, and commitment. This is only possible if the people working on a project work well together. Team members bring a diversity of opinion, accountability and various expertise. Art for All members developed a team contract that determined our code of conduct. This ensured that we were always focused and realized our goals.
-
-
-
