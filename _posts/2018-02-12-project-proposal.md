@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: project proposal
+title: Project Proposal
 ---
 ## A Communal Natural History
 
