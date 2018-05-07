@@ -4,7 +4,7 @@ published: true
 
 
 
-## Introduction
+### Introduction
 
 
 Designing a product is both an art and a science. It is subject to various morals, rules and regulations. My class Human Computer Interaction has revealed to me various principles that are key to design a successful product. The following are lessons I have learned developing a personal project proposal, and working on a group project - from ideation to prototyping.
@@ -27,12 +27,6 @@ After communicating the problem and solution, the next stage is creating a proto
 
 
 The final stage of the process is developing a high fidelity prototype. There are a variety of technologies that are available to help with the process. Designers should exercise caution because technologies can offer and take away various affordances. An iPhone application will only be used by people with iPhones while a web application can be accessed by people using different smartphones. The high fidelity prototype can start as a static design then transition to an interactive prototype. 
-
-
-# _Five Points on the Design Process_
-
-
-
 
 
 ### Contextual Inquiries provide insights on a problem
