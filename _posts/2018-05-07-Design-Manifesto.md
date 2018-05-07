@@ -21,6 +21,8 @@ The next stage of the process is ideation. This is a creative process in which d
 
 
 Understanding the problem and the potential solution are followed by effectively communicating the two phenomena. Storyboards and video sketches can indicate how users can solve the problem using the proposed technology. These forms of communication are often brief, rough, catchy and to the point. Art for All produced storyboards showing how users would accomplish two tasks using our design.
+
+
 After communicating the problem and solution, the next stage is creating a prototype of the solution. The prototype has to advance from a low fidelity prototype to a high fidelity prototype. The Art for All group created a paper prototype of our proposed solution. Creating the prototype was an iterative process. Our paper prototype went through a heuristic evaluation and user tests. The heuristic evaluation was carried out according to Nielsen’s Heuristic Principles. Test users were asked to complete a variety of tasks while Art for All team members observed them. Feedback from the evaluation and tests helped us identify strengths and pain points of our design. We adapted the paper prototype accordingly until we had a final paper prototype.
 
 
