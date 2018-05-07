@@ -9,5 +9,4 @@ published: true
 
 
 - Interests: Computer Science, Financial Markets, Literature & Politics.
-- Favorite Animals: Elephants. They are very intelligent.
-
+- Favorite Animals: Elephants - they are very intelligent.
