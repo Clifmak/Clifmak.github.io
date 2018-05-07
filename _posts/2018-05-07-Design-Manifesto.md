@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Design Manifesto
+
 
 
 ## Introduction
