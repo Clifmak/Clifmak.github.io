@@ -11,7 +11,7 @@ Designing a product is both an art and a science. It is subject to various moral
 ### Process
 
 
-The first part of my design product involves asking questions and being creative. Design’s role in society is to solve problems. In both my project proposal and the group project I had to identity a problem that needed to be solved. Identifying a problem is only one part of the battle. The designer always has to fight against confirmation bias. This is the part in which design becomes a science . Designers have to break down, de-construct and build-up the problem in order to understand it; They have to research the problem.
+The first part of my design process involves asking questions and being creative. Design’s role in society is to solve problems. In both my project proposal and the group project I had to identity a problem that needed to be solved. Identifying a problem is only one part of the battle. The designer always has to fight against confirmation bias. This is the part in which design becomes a science . Designers have to break down, de-construct and build-up the problem in order to understand it; They have to research the problem.
 
 
 Researching a design problem is a multifaceted process. All stakeholders in the problem need to be considered. This can be done through contextual inquiries. Contextual inquiries involves talking to people who are directly affected by a problem. Its role is to help designers understand the nature of the problem. Designers can get evidence based knowledge about people’s needs, wants and wishes. For my group project, Art for All, the team was only able to understand what people want from a museum experience after conducting more contextual inquiries. The inquiries included a field trip to the museum, MASS MoCA.
