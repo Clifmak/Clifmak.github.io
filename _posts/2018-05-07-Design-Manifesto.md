@@ -31,7 +31,19 @@ After communicating the problem and solution, the next stage is creating a proto
 ![affinity-diagram.jpg]({{site.baseurl}}/_posts/affinity-diagram.jpg)
 
 
+
+
+
+
 ![P]({{site.baseurl}}/_posts/paper_prototyping_overview.jpg)
+
+
+
+
+
+
+
+
 
 ![digf-yourthreads.jpg]({{site.baseurl}}/_posts/digf-yourthreads.jpg)
 
