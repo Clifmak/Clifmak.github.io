@@ -27,29 +27,6 @@ Understanding the problem and the potential solution are followed by effectively
 
 After communicating the problem and solution, the next stage is creating a prototype of the solution. The prototype has to advance from a low fidelity prototype to a high fidelity prototype. The Art for All group created a paper prototype of our proposed solution. Creating the prototype was an iterative process. Our paper prototype went through a heuristic evaluation and user tests. The heuristic evaluation was carried out according to Nielsen’s Heuristic Principles. Test users were asked to complete a variety of tasks while Art for All team members observed them. Feedback from the evaluation and tests helped us identify strengths and pain points of our design. We adapted the paper prototype accordingly until we had a final paper prototype.
 
-
-![affinity-diagram.jpg]({{site.baseurl}}/_posts/affinity-diagram.jpg)
-
-
-
-
-
-
-![P]({{site.baseurl}}/_posts/paper_prototyping_overview.jpg)
-
-
-
-
-
-
-
-
-
-![digf-yourthreads.jpg]({{site.baseurl}}/_posts/digf-yourthreads.jpg)
-
-
-
-
 The final stage of the process is developing a high fidelity prototype. There are a variety of technologies that are available to help with the process. Designers should exercise caution because technologies can offer and take away various affordances. An iPhone application will only be used by people with iPhones while a web application can be accessed by people using different smartphones. The high fidelity prototype can start as a static design then transition to an interactive prototype. 
 
 
