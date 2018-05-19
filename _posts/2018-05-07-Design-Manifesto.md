@@ -5,7 +5,7 @@ published: true
 ### Introduction
 
 
-Designing a product is both an art and a science. It is subject to various morals, rules and regulations. My class Human Computer Interaction has revealed to me various principles that are key to designing a successful product. The following are lessons that I have learned while developing a personal project proposal and working on a group project - from ideation to prototyping.
+Designing a product is both an art and a science. It is subject to various morals, rules and regulations. My class Human Computer Interaction has revealed various principles that are key to designing a successful product. The following are lessons that I have learned while developing a personal project proposal and working on a group project - from ideation to prototyping.
 
 
 
