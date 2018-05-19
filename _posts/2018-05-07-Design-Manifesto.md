@@ -76,7 +76,7 @@ Developing a great solution requires time, effort, organization, and commitment.
 ### Code of Ethics
 
 1. _Don't be evil_ : Play nice, be good, and consider the social implications of your designs.
-2. _Be conscious of that other people who are not like you_: Users might not think like you; therefore, be mindful when making design choices.
+2. _Be conscious that other people who are not like you_: Users might not think like you; therefore, be mindful when making design choices.
 3. _Spread love not bad design_ : Don't encourage a culture of ableism, designs should be accessible to people of all abilities.
 4. _Design for users not yourself_: You need to talk to them and understand what they need.
 5. _What seems intuitive to you the designer is not necessarily intuitive to the users._
