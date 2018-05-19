@@ -80,4 +80,5 @@ Developing a great solution requires time, effort, organization, and commitment.
 3. _Spread love not bad design_ : Don't encourage a culture of ableism, designs should be accessible to people of all abilities.
 4. _Design for users not yourself_: You need to talk to them and understand what they need.
 5. _What seems intuitive to you the designer is not necessarily intuitive to the users._
-6. _Simple_ and _clear_ design is the best way to effectively communicate with the user !
+6. _Simple_ and _clear_ design is the best way to effectively communicate with the user.
+7. Enjoy the design process !
