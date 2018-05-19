@@ -65,13 +65,13 @@ It is okay to fail and learn during the design process. Developing a prototype i
 ### Usability testing can reveal how the user experiences the design
 
 
-Designers often make assumptions about users. This can result in an ineffective design. What seems intuitive to designers might not be intuitive to the users. Conducting usability tests can help address designers’ bias, and reveal users actual experience. Our Art for All design had to highlight several key features, including a favoriting feature, which was not noticed by the user.
+Designers often make assumptions about users. This can result in an ineffective design. What seems intuitive to designers might not be intuitive to the users. Conducting usability tests can help address designers’ bias, and reveal users actual experience. Our Art for All design had to highlight several key features, including a favoriting feature, which was not noticed by the user. Nielsen' 10 heuristic tests can helps show some aspects of usability that a design might have missed. It is a checklist that can help ensure a good design interface.
 
 
 ### The Design Process is a Team Effort
 
 
-Developing a great solution requires time, effort, organization, and commitment. This is only possible if the people working on a project work well together. Team members bring a diversity of opinion, accountability and various expertise. Art for All members developed a team contract that determined our code of conduct. This ensured that we were always focused and realized our goals.
+Developing a great solution requires time, effort, organization, and commitment. This is only possible if the people working on a project work well together. Team members bring a diversity of opinion, accountability and various expertise. Art for All members developed a [team contract](http://stephanieliu.me/hciproject/team-contract/) that determined our code of conduct. This ensured that we were always focused and realized our goals.
 
 ### Code of Ethics
 
@@ -80,4 +80,3 @@ Developing a great solution requires time, effort, organization, and commitment.
 3. Spread love not bad design : Don't encourage a culture of ableism, designs should be accessible to people of all abilities.
 4. Design for people not yourself. You need to talk to them and understand what they need.
 5. What seems intuitive to you the designer is not necessarily intuitive to the users.
-
